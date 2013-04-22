@@ -1,0 +1,2 @@
+
+((:|TITLE| "1" :|ARTIST| "1" :|RATING| 3. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "dfdf" :|ARTIST| "A" :|RATING| 3. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "a" :|ARTIST| "d" :|RATING| 2. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "a" :|ARTIST| "d" :|RATING| 1. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "a" :|ARTIST| "d" :|RATING| 2. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "a" :|ARTIST| "a" :|RATING| 23. :|RIPPED| |COMMON-LISP|::|T|)) 
